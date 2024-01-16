@@ -1,9 +1,10 @@
-package api;
+package apiTests;
 
-import api.apiTemplates.Register;
-import api.apiTemplates.SuccessReg;
-import api.apiTemplates.UnSuccessReg;
-import api.apiTemplates.UserData;
+import apiTests.framework.Specifications;
+import apiTests.framework.apiTemplates.Register;
+import apiTests.framework.apiTemplates.SuccessReg;
+import apiTests.framework.apiTemplates.UnSuccessReg;
+import apiTests.framework.apiTemplates.UserData;
 import org.junit.Assert;
 import org.junit.Test;
 

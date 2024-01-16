@@ -16,6 +16,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.16.1</version>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
@@ -37,7 +42,5 @@
             <artifactId>jackson-core</artifactId>
             <version>2.16.1</version>
         </dependency>
-
     </dependencies>
-
 </project>

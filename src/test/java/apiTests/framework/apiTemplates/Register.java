@@ -1,4 +1,4 @@
-package api.apiTemplates;
+package apiTests.framework.apiTemplates;
 
 public class Register {
     private String email;

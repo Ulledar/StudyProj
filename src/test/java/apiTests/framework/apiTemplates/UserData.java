@@ -1,4 +1,4 @@
-package api.apiTemplates;
+package apiTests.framework.apiTemplates;
 
 public class UserData {
     private Integer id;
