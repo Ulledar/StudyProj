@@ -1,10 +1,10 @@
-package apiTests;
+package apiTests.reqresTests;
 
-import apiTests.framework.Specifications;
-import apiTests.framework.apiTemplates.Register;
-import apiTests.framework.apiTemplates.SuccessReg;
-import apiTests.framework.apiTemplates.UnSuccessReg;
-import apiTests.framework.apiTemplates.UserData;
+import apiTests.reqresTests.framework.Specifications;
+import apiTests.reqresTests.framework.apiTemplates.Register;
+import apiTests.reqresTests.framework.apiTemplates.SuccessReg;
+import apiTests.reqresTests.framework.apiTemplates.UnSuccessReg;
+import apiTests.reqresTests.framework.apiTemplates.UserData;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package apiTests.framework.apiTemplates;
+package apiTests.reqresTests.framework.apiTemplates;
 
 public class UnSuccessReg {
     private String error;
